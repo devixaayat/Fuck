@@ -76,15 +76,12 @@ def group_to_id(username):
 
 #--> Logo
 def logo():
-print('  _____             _ ')
-print(' |  __ \           (-)_')
-print(' | |  | | _____   ___') 
-print(' | |  | |/ _ \ \ / / |')
-print('| |__| |  __/\ V /| |')
-print('|_____/ \___| \_/ |_|')
-                      
-                    
-
+    print('  _____             _ ')
+    print(' |  __ \           (-)_')
+    print(' | |  | | _____   ___') 
+    print(' | |  | |/ _ \ \ / / |')
+    print('| |__| |  __/\ V /| |')
+    print('|_____/ \___| \_/ |_|')              
 #--> Login
 class login:
     def __init__(self):
