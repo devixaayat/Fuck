@@ -75,7 +75,7 @@ def group_to_id(username):
     except Exception as e:return(username)
 
 #--> Logo
-def logo().
+def logo():
 print('  _____             _ ')
 print(' |  __ \           (-)_')
 print(' | |  | | _____   ___') 
